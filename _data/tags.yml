@@ -1,0 +1,27 @@
+---
+'':
+  name: 
+seneca:
+  name: Seneca
+hesiod:
+  name: Hesiod
+virtus:
+  name: Virtus
+diogenes-laertius:
+  name: Diogenes Laertius
+epistles:
+  name: Epistles
+octavia:
+  name: Octavia
+satyrarum-libri:
+  name: Satyrarum libri
+hercules-oetaeus:
+  name: Hercules Oetaeus
+lives-of-eminent-philosophers:
+  name: Lives of Eminent Philosophers
+carmina:
+  name: Carmina
+cicero:
+  name: Cicero
+de-arte-poetica-liber:
+  name: De Arte Poetica liber
