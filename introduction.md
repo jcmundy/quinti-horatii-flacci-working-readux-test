@@ -8,7 +8,7 @@ excerpt: An introduction explaining annotation methods and goals.
 <p class="message">
   
 
-    I am making a TEST Readux export site. This will be a test site only. </p>
+  I am making a TEST site exported from <a href="https://readux.io/">Readux</a>. This will be a test site only. </p>
 
 <p class="message">
 
